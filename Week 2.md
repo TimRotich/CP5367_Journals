@@ -3,7 +3,10 @@ This week, I learned how to set up and work with joomla. I watched this video on
 went through other Joomla development tutorials including joomla templates as listed below. I then put what I learned into practice.
 
 https://docs.joomla.org/J5:Getting_Started_with_Joomla
+
 http://www.joomshaper.com
+
+
 https://www.youtube.com/watch?v=h5VZwTLdgdM
 
 
